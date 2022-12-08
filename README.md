@@ -1,2 +1,2 @@
 # Python
-Repositório dedicado á estudas pessoal de Python
+Repositório dedicado á estudos pessoais de Python
